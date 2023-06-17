@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:bookworm
 LABEL maintainer="Deriv Services Ltd <DERIV@cpan.org>"
 
 ENV TZ=UTC
